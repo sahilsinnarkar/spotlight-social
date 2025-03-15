@@ -70,13 +70,17 @@ Handled secure user sessions with expo-secure-store.
 -------------------------------------
 ### Screenshots
 **Login and  Home**
-![image](https://github.com/user-attachments/assets/48e04f88-828b-4b2f-bec9-3465311f5485) ![image](https://github.com/user-attachments/assets/44353b09-6c58-414b-9ac5-7d380761726d)
+![image](https://github.com/user-attachments/assets/94441220-c046-4faf-87b1-484e004c8e63)
+
 **Create post and Like & Comment**
-![image](https://github.com/user-attachments/assets/242be742-61e5-467d-8fa9-f233e7a0548a) ![image](https://github.com/user-attachments/assets/6fd61715-fa75-4de7-8d68-795dfda77643)
+![image](https://github.com/user-attachments/assets/1f22e3e7-a582-46c0-8d02-6ef6bf631d6d)
+
 **Bookmark and Notifications**
-![image](https://github.com/user-attachments/assets/c497a234-44c7-402b-96b1-04690fdcebdc) ![image](https://github.com/user-attachments/assets/36375658-bd24-48f9-b5d1-9cf9c8097675)
+![image](https://github.com/user-attachments/assets/647fd5e1-daf4-4ecf-996b-ab26f5783719)
+
 **Profile and Follow/Un-Follow**
-![image](https://github.com/user-attachments/assets/46c1a639-88b4-41fd-9510-06b2bfdb52da) ![image](https://github.com/user-attachments/assets/76df2e81-e3c0-4d4d-b97a-34b3e01fa5cf)
+![image](https://github.com/user-attachments/assets/dfda4d76-ac9b-466f-ba0a-d4588f93ce59)
+
 
 
 
