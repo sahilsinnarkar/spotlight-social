@@ -40,8 +40,8 @@ Spotlight App is a full-stack social media application built using **React**, **
 
 ## 🏗️ Installation and Setup
 1. **Clone the repository**:
-git git@github.com:sahilsinnarkar/spotlight-social.git
-cd spotlight-social
+git - git@github.com:sahilsinnarkar/spotlight-social.git
+cd - spotlight-social
 
 3. ***Install dependencies:**
 npm install
